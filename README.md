@@ -2,18 +2,18 @@ QACodingProject1.pdf
 ====================
 Here are listed the main steps that I did to write the test scripts:
 
-OS: Windows 7 
-1. Install PHPUnit and prerequisites
-.NET Framework 4.5.1
-Microsoft Silverlight
-Mozilla Firefox 33.1.1
-Microsoft Visual C++ 2010 x64
-Microsoft Visual C++ 2010 Redistributable x64
-Java SE Development Kit
-WampServer 2.5
-JetBrains PhpStorm
- PHPUnit via PEAR
-use : selenium-server-standalone-2.44.0.jar
+OS: Windows 7 ; 
+1. Install PHPUnit and prerequisites ; 
+.NET Framework 4.5.1 ;
+Microsoft Silverlight ; 
+Mozilla Firefox 33.1.1 ; 
+Microsoft Visual C++ 2010 x64 ; 
+Microsoft Visual C++ 2010 Redistributable x64 ; 
+Java SE Development Kit ; 
+WampServer 2.5 ; 
+JetBrains PhpStorm ; 
+ PHPUnit via PEAR ; 
+use : selenium-server-standalone-2.44.0.jar ; 
 
 REQUIREMENTS
 You are required to implement a Selenium script (preferably using PHPUnit) that:
