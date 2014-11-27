@@ -16,7 +16,7 @@ JetBrains PhpStorm ;
 use : selenium-server-standalone-2.44.0.jar ; 
 
 REQUIREMENTS
-You are required to implement a Selenium script (preferably using PHPUnit) that:
+Implement a Selenium script using PHPUnit that:
 1. Logs in with a test user 
 2. Fills out all the requirements on the Contact us page and click submit the form. 
 3. Verifies that you see a “Thanks you” overlay after submitting the form.
