@@ -17,7 +17,7 @@ use : selenium-server-standalone-2.44.0.jar
 
 REQUIREMENTS
 You are required to implement a Selenium script (preferably using PHPUnit) that:
-1.  Logs in with a test user 
+1. Logs in with a test user 
 2. Fills out all the requirements on the Contact us page and click submit the form. 
 3. Verifies that you see a “Thanks you” overlay after submitting the form.
 
@@ -30,8 +30,8 @@ use: function testLoadPage()
 
 2.  Click on the “LOG IN” link and fill in the following information for username: 
 shiptest@mailinator.com / password: test1234 and click the “Sign in” button
-
 use : function testLogIn()
+
 3.  Once logged in, click on the “Contact us” link located on the left navigation pane
 4. On the Contact page, fill out all required information and click the “Get in touch” button
 use: function testFillContactUs()
